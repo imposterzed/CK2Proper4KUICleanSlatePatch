@@ -11,4 +11,4 @@ reporting** feature on this repository's Security tab, rather than
 opening a public issue.
 
 For non-security mod bugs, please use the normal
-[issue templates](https://github.com/imposterzed/Proper4KUICleanSlatePatch/issues/new/choose).
+[issue templates](https://github.com/imposterzed/CK2Proper4KUICleanSlatePatch/issues/new/choose).

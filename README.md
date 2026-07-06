@@ -40,7 +40,7 @@ Covers all 134 frames in the modifier icon strip.
 Documents/Paradox Interactive/Crusader Kings II/mod/
 ```
 
-…then enable **Proper 4K UI Project - CleanSlate Patch** in the launcher.
+…then enable **Proper4KUI - CleanSlate Patch** in the launcher.
 
 ## Compatibility
 
@@ -52,8 +52,8 @@ Not covered by this patch. If you're running CK2Plus, use the [CK2Plus - Proper 
 
 ## Community
 
-- **[GitHub Issues](https://github.com/imposterzed/Proper4KUICleanSlatePatch/issues/new/choose)** — structured template for bug reports.
-- **[GitHub Discussions](https://github.com/imposterzed/Proper4KUICleanSlatePatch/discussions)** — general questions and discussion.
+- **[GitHub Issues](https://github.com/imposterzed/CK2Proper4KUICleanSlatePatch/issues/new/choose)** — structured template for bug reports.
+- **[GitHub Discussions](https://github.com/imposterzed/CK2Proper4KUICleanSlatePatch/discussions)** — general questions and discussion.
 
 ## Credit & License
 

@@ -1,4 +1,4 @@
-name = "Proper 4K UI Project - CleanSlate Patch"
+name = "Proper4KUI - CleanSlate Patch"
 path = "mod/Proper4KUICleanSlatePatch"
 tags = { "Compatibility" "Graphics" }
 picture = "thumbnail.png"
