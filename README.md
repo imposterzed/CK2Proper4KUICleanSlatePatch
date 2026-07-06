@@ -50,6 +50,11 @@ Proper 4K UI Project - CleanSlate Patch should work alongside any mods that are 
 
 Not covered by this patch. If you're running CK2Plus, use the [CK2Plus - Proper 4K UI Compatibility Submod](https://steamcommunity.com/sharedfiles/filedetails/?id=3054054196) instead.
 
+## Community
+
+- **[GitHub Issues](https://github.com/imposterzed/Proper4KUICleanSlatePatch/issues/new/choose)** — structured template for bug reports.
+- **[GitHub Discussions](https://github.com/imposterzed/Proper4KUICleanSlatePatch/discussions)** — general questions and discussion.
+
 ## Credit & License
 
 Upscaled icons belong to [LuvianQ](https://steamcommunity.com/id/luvian03) and the [Proper 4K UI Project](https://steamcommunity.com/sharedfiles/filedetails/?id=3054987840). Patch © 2026 imposterzed — MIT, see [LICENSE](LICENSE).
