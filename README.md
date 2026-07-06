@@ -34,6 +34,8 @@ Covers all 134 frames in the modifier icon strip.
 
 ## Installation
 
+**Steam Workshop:** [subscribe](https://steamcommunity.com/sharedfiles/filedetails/?id=3758963186).
+
 **Manual install:** drop `Proper4KUICleanSlatePatch/` and `Proper4KUICleanSlatePatch.mod` into:
 
 ```
@@ -52,6 +54,8 @@ Not covered by this patch. If you're running CK2Plus, use the [CK2Plus - Proper 
 
 ## Community
 
+- **[Steam Workshop Discussions](https://steamcommunity.com/workshop/filedetails/discussions/3758963186)** — Workshop discussion tab.
+- **[Paradox Forums thread](https://forum.paradoxplaza.com/forum/threads/mod-proper-4k-ui-project-cleanslate-patch.1933296/)** — announcement thread.
 - **[GitHub Issues](https://github.com/imposterzed/CK2Proper4KUICleanSlatePatch/issues/new/choose)** — structured template for bug reports.
 - **[GitHub Discussions](https://github.com/imposterzed/CK2Proper4KUICleanSlatePatch/discussions)** — general questions and discussion.
 

@@ -6,6 +6,12 @@ The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.1.0/),
 
 ## [Unreleased]
 
+## [1.0.1] - 2026-07-06
+
+### Changed
+- README Installation leads with the Steam Workshop subscribe link.
+- README Community adds Steam Workshop Discussions and Paradox Forums links.
+
 ## [1.0.0] - 2026-07-06
 
 First public release.
