@@ -19,7 +19,7 @@ body:
       description: |
         Found in the mod's `.mod` file or on the [Releases page](../releases). If you're on a pre-1.0 development build, pick "Older / unknown" and note the specific version in the description.
       options:
-        - v1.0.0 (latest)
+        - v1.0.x (current)
         - Older / unknown
     validations:
       required: true
@@ -30,7 +30,7 @@ body:
       label: Mods loaded alongside Proper 4K UI Project - CleanSlate Patch
       description: This patch requires both CleanSlate and Proper 4K UI Project. Check whichever applies.
       options:
-        - label: CK2Plus (use the CK2Plus - Proper 4K UI Compatibility Submod instead of this patch — see the README)
+        - label: CK2Plus (with the CK2Plus - Proper 4K UI Compatibility Submod)
         - label: Other mods (please list in the description)
         - label: None — just CleanSlate + Proper 4K UI Project
 

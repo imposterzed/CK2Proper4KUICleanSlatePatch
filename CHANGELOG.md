@@ -6,6 +6,15 @@ The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.1.0/),
 
 ## [Unreleased]
 
+## [1.0.2] - 2026-07-06
+
+### Fixed
+- README CK2Plus compatibility recommends installing alongside the CK2Plus - Proper 4K UI Compatibility Submod, not as a replacement.
+- Bug report template's CK2Plus mod-stack checkbox updated to match.
+
+### Changed
+- Bug report template's mod-version dropdown uses `v1.0.x (current)` instead of a per-release value.
+
 ## [1.0.1] - 2026-07-06
 
 ### Changed

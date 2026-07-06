@@ -17,7 +17,7 @@ Aligns Proper 4K UI Project's assets with CleanSlate's changes.
 
 ### Trait icons
 
-CleanSlate renames 32 vanilla trait IDs (e.g. `fair` → `attractive`, `robust` → `brawny`). Proper 4K UI Project ships upscaled icons at the *vanilla* names, so under a CleanSlate + Proper 4K UI Project stack, the renamed traits fall back to CleanSlate's standard resolution icons. This patch bundles Proper 4K UI Project's icons under the CleanSlate names.
+CleanSlate renames vanilla trait IDs (e.g. `fair` → `attractive`, `robust` → `brawny`), with new icon filenames to match. Proper 4K UI Project ships upscaled icons at the *vanilla* names, so under a CleanSlate + Proper 4K UI Project stack, the renamed traits fall back to CleanSlate's standard resolution icons. This patch bundles Proper 4K UI Project's icons under the CleanSlate names.
 
 Covers all 29 renamed trait icons.
 
@@ -50,7 +50,7 @@ Proper 4K UI Project - CleanSlate Patch should work alongside any mods that are 
 
 ### CK2+ (CK2Plus)
 
-Not covered by this patch. If you're running CK2Plus, use the [CK2Plus - Proper 4K UI Compatibility Submod](https://steamcommunity.com/sharedfiles/filedetails/?id=3054054196) instead.
+Install alongside the [CK2Plus - Proper 4K UI Compatibility Submod](https://steamcommunity.com/sharedfiles/filedetails/?id=3054054196). That submod handles CK2Plus's game-content compatibility with Proper 4K UI Project. This patch handles the icon rendering issues CK2Plus inherits from the CleanSlate + Proper 4K UI Project stack.
 
 ## Community
 
