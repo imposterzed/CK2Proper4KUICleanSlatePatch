@@ -6,6 +6,11 @@ The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.1.0/),
 
 ## [Unreleased]
 
+## [1.0.3] - 2026-07-06
+
+### Changed
+- Inner `descriptor.mod` untracked and gitignored.
+
 ## [1.0.2] - 2026-07-06
 
 ### Fixed
