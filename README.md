@@ -11,6 +11,10 @@ A compatibility patch for the Proper 4K UI Project + CleanSlate stack. Bundles a
   <a href="docs/modifiers-with-patch.jpg"><img src="docs/thumbs/modifiers-with-patch.jpg" height="200" alt="Modifier icons with the patch" /></a>
 </p>
 
+Latest release: **v1.1.0**
+
+- **Fixed broken .mod file** — should fix the mod not showing up in the launcher after subscribing.
+
 ## What it does
 
 Aligns Proper 4K UI Project's assets with CleanSlate's changes.
